@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<unistd.h>
 #include<string.h>
-
+//abcd
 int x=15,y=8,s=0;
 
 char move ='x';
